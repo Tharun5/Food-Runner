@@ -19,8 +19,10 @@ A Food Ordering Android App with various restaurants, multiple menus. Users can 
 ## Screenshots
 
 <div class="row">
-      <img src="/Screenshots/food-runner ss5.jpg" width="250" title="Login">
-      <img src="/Screenshots/food-runner ss2.jpg" width="250" title="Menu Drawer">     
+      ![Final](./Screenshots/food-runner ss5.jpg)
+      ![Final](./Screenshots/food-runner ss2.jpg)
+<!--       <img src="/Screenshots/food-runner ss5.jpg" width="250" title="Login">
+      <img src="/Screenshots/food-runner ss2.jpg" width="250" title="Menu Drawer">      -->
       <img src="/Screenshots/food-runner ss1.jpg" width="250" title="All Restaurants">
 </div>
 <br>
